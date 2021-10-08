@@ -1,12 +1,19 @@
 {
   "name": "wfrp-tew2",
-  "title": "TEW2 Module",
+  "title": "A TEW2 Module",
   "description": "Homebrew for TEW2.",
   "version": "0.2",
   "author": "Stu",
   "system": ["wfrp4e"],
-  "minimumCoreVersion": "0.5.0",
-  "url": "https://stuartkerrigan.com",
+  "system": ["wfrp4e"],
+  "styles": [
+    "./styles.css"
+  ],
+  "scripts": [
+    "init.js"
+  ],
+  "languages": ["en"],
+  "minimumCoreVersion": "0.8.9",
   "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/wfrp-tew2/master/module.json",
-  "download": "https://github.com/CStuartEKerrigan/wfrp-tew2/archive/master.zip"
-}
+  "download": "https://github.com/CStuartEKerrigan/wfrp-tew2/archive/master.zip",
+  "url": "https://github.com/CStuartEKerrigan/wfrp-tew2/"8}9
