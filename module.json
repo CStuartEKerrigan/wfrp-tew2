@@ -1,0 +1,9 @@
+{
+  "name": "wfrp-tew2",
+  "title": "TEW2 Module",
+  "description": "Homebrew for TEW2.",
+  "version": "0.1",
+  "author": "Stu",
+  "system": ["wfrp4e"],
+  "minimumCoreVersion": "0.5.0"
+}
