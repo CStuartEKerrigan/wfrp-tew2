@@ -5,7 +5,6 @@
   "version": "0.2",
   "author": "Stu",
   "system": ["wfrp4e"],
-  "system": ["wfrp4e"],
   "styles": [
     "./styles.css"
   ],
