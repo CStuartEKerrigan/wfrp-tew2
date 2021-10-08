@@ -2,8 +2,10 @@
   "name": "wfrp-tew2",
   "title": "TEW2 Module",
   "description": "Homebrew for TEW2.",
-  "version": "0.1",
+  "version": "0.2",
   "author": "Stu",
   "system": ["wfrp4e"],
-  "minimumCoreVersion": "0.5.0"
+  "minimumCoreVersion": "0.5.0",
+  "url": "https://stuartkerrigan.com",
+  "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/wfrp-tew2/master/module.json"
 }
