@@ -2,7 +2,7 @@
   "name": "wfrp-tew2",
   "title": "A TEW2 Module Tokens",
   "description": "Homebrew for TEW2.",
-  "version": "0.2",
+  "version": "0.2.1",
   "author": "Stu",
   "system": ["wfrp4e"],
   "styles": [
